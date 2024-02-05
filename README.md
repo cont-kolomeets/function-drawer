@@ -16,3 +16,5 @@ Example of an expression (spaces will be ignored):
 There are some easter eggs to draw fractals.
 
 ![FunctionDrawer_v0 7_02](https://github.com/cont-kolomeets/function-drawer/assets/5318527/d6cbeb58-1288-4c3d-8a08-2400be0381bb)
+
+![image](https://github.com/cont-kolomeets/function-drawer/assets/5318527/8f154044-7978-49f8-b36d-5f582afa0e80)
